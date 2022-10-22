@@ -32,7 +32,7 @@ class Guitarist(Musician):
         self.instrument = "guitar"
         self.solo = "face melting guitar solo"
 
-
+# for bassist
 class Bassist(Musician):
 
     def __init__(self, name):
